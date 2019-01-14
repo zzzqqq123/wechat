@@ -8,6 +8,6 @@ package com.wechat.springbootwechat;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("niha");
+        System.out.println("niha+yyy");
     }
 }
