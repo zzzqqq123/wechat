@@ -14,6 +14,8 @@ public class Gellogit {
     @Override
     public String toString() {
         System.out.println(1);
+        System.out.println("2");
+        System.out.println("3");
         return super.toString();
     }
 }
