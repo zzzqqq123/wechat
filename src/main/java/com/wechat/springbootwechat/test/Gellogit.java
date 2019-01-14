@@ -10,4 +10,9 @@ public class Gellogit {
     public static void main(String[] args) {
         System.out.println("git");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
