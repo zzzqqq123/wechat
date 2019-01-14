@@ -13,7 +13,6 @@ public class Gellogit {
 
     @Override
     public String toString() {
-        System.out.println("you are good");
         return super.toString();
     }
 }
