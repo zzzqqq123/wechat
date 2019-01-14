@@ -1,13 +1,13 @@
-package com.wechat.springbootwechat;
+package com.wechat.springbootwechat.test;
 
 /**
  * @Description: java类作用描述
  * @Author: zhangqiang
- * @CreateDate: 2019/1/14 9:30
+ * @CreateDate: 2019/1/14 10:22
  * @Version: 1.0
  */
-public class test {
+public class Gellogit {
     public static void main(String[] args) {
-        System.out.println("niha+yyy");
+        System.out.println("git");
     }
 }
